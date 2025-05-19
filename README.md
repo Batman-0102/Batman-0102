@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Batman-0102&color=dc143c&abbreviated=true)
 <!--
 **Batman-0102/Batman-0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
